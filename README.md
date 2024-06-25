@@ -6,9 +6,10 @@
 ```mermaid
 flowchart LR
     A(((FCC GD))) --> B(CBA)
+	
     B --> BA(PRE GO LIVE)
 	BA --> BAA(BSDD)
-	BBA --> BBAA(Word and PDF file)
+	BAA --> BAAA(Word and PDF file)
 	BA --> BAB(TSDD)
 	BAB --> BABA (Word and PDF file)
 	BA --> BAC(DB DUMP)
